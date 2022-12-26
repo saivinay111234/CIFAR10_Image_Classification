@@ -1,5 +1,4 @@
 # CIFAR10_Image_Classification
-
 In this project we are going to look at how we are training a CNN model to classify images of 10 classes. The name of the dataset is CIFAR10. As the name suggest the dataset contains 10 different images in it.
 After running the input data, we will observe that the:
 
@@ -15,14 +14,16 @@ Table of contents( Step by step procedure )
 3. Checking for Null Values
 4. Normalize the data
 5. One-Hot encoding
-6.Building CNN
-7.Evaluate the Model
-8.Data Augemtation to prevent Overfitting
-9.Evalaute The Model after Data Augementation
+6. Building CNN
+7. Evaluate the Model
+8. Data Augemtation to prevent Overfitting
+9. Evalaute The Model after Data Augementation
 10. Score Model
 11. Confusion Matrix
 12. Classification Report
-13.Predicted vs Actual Images
-14.Checking Wrongly predicted Images
-15.Testing a Image
-16.Save CNN Models and Weights
+13. Predicted vs Actual Images
+14. Checking Wrongly predicted Images
+15. Testing a Image
+16. Save CNN Models and Weights
+
+Following the above gives you a clarity on how we are implementing a cnn model for classification
